@@ -25,6 +25,10 @@ img {
 	border: 0;
 }
 
+a {
+	outline: 0;
+}
+
 .head_logo {
 	float: left;
 	padding-left: 100px;
