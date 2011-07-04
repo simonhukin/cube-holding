@@ -39,7 +39,11 @@ a {
 	font-size: 34px;
 	color: #b90619;
 	padding-left: 10px;
-	padding-top: 17px;
+	padding-top: 52px;
+}
+
+.head_tag p{
+    margin:0;
 }
 
 .main {
@@ -63,8 +67,9 @@ a {
 
 .main li {
 	list-style-type: none;
-	padding-bottom: 10px;
+	padding-bottom: 12px;
 	display: block;
+        height: 20px;
 }
 
 .main a {
@@ -101,7 +106,7 @@ a:hover {
 }
 
 .a_link {
-	padding-top: 90px;
+	padding-top: 0px;
 }
 .main_spacer {
 	float: left;
