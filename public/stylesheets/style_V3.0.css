@@ -50,7 +50,7 @@ a {
 	background-image: url('../images/main_bg.png');
 	background-repeat: repeat-x;
 	background-color: #282828;
-	min-height: 320px;
+	min-height: 285px;
 	font-size: 13px;
 	color: #fafafa;
 	padding: 20px;
@@ -67,7 +67,7 @@ a {
 
 .main li {
 	list-style-type: none;
-	padding-bottom: 14px;
+	padding-bottom: 12px;
 	display: block;
         height: 20px;
 }
@@ -79,13 +79,13 @@ a {
 
 .main_1 {
 	float:left;
-	width: 360px;
+	width: 370px;
 	line-height: 110%;
 }
 
 .main_2 {
 	float:left;
-	width: 140px;
+	width: 130px;
 }
 
 .main_2 img {
@@ -101,7 +101,7 @@ a {
 }
 
 #map {
-        padding-top: 13px;
+        padding-top: 2px;
 }
 
 a:hover {
@@ -117,7 +117,7 @@ a:hover {
 	background-image: url('../images/main_spacer.png');
 	background-repeat: no-repeat;
 	width: 3px;
-	height: 233px;
+	height: 224px;
 	margin-top: 23px;
 	margin-left: 10px;
 	margin-right: 15px;
